@@ -1,6 +1,6 @@
 <?php
 
-namespace WLO;
+namespace WFO;
 
 use pocketmine\plugin\PluginBase;
 use pocketmine\Server;
